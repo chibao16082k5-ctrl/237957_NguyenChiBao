@@ -24,13 +24,9 @@ Hệ thống quản lý nhân sự triển khai trên nền tảng đám mây.
 - Cập nhật nhân viên
 - Xóa nhân viên
 
-## Hướng dẫn chạy
-Sẽ cập nhật sau khi hoàn thành ứng dụng.
-
 ## MongoDB Atlas
 - Database: 237957_NguyenChiBao
 - Collection: employees
-- Số nhân viên mẫu: 3
 
 ## Liên kết
 - GitHub: https://github.com/chibao16082k5-ctrl/237957_NguyenChiBao
