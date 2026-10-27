@@ -27,10 +27,15 @@ Hệ thống quản lý nhân sự triển khai trên nền tảng đám mây.
 ## Hướng dẫn chạy
 Sẽ cập nhật sau khi hoàn thành ứng dụng.
 
+## MongoDB Atlas
+- Database: 237957_NguyenChiBao
+- Collection: employees
+- Số nhân viên mẫu: 3
+
 ## Liên kết
 - GitHub: https://github.com/chibao16082k5-ctrl/237957_NguyenChiBao
 - Docker Hub Backend: Chưa triển khai
 - Docker Hub Frontend: Chưa triển khai
 - Render App: Chưa triển khai
 - Render API: Chưa triển khai
-- MongoDB Atlas: Chưa cập nhật
+- MongoDB Atlas: mongodb+srv://chibao16082k5_db_user:Bao16082k5@cluster0.qq7xise.mongodb.net/
